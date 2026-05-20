@@ -132,8 +132,8 @@ def main():
         reverse=True
     )
     
-    # 只保留最近 500 篇
-    all_articles = all_articles[:500]
+    # 只保留最近 100 篇
+    all_articles = all_articles[:100]
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
