@@ -48,7 +48,7 @@ articles.forEach(a => {
               <span class="feed">{article.feed}</span>
               {article.pubDate && <span> · {new Date(article.pubDate).toLocaleString('zh-CN')}</span>}
             </div>
-            {article.description && <div class="desc">{article.description}...</div>}
+            {article.description && <div class="desc">{article.description.length > 100 ? article.description.slice(0, 100) + '...' : article.description}...</div>}
           </article>
         ))}
       </div>
