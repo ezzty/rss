@@ -121,9 +121,7 @@ def main():
             if article['id'] not in existing:
                 existing[article['id']] = article
                 new_count += 1
-            else:
-                # 更新抓取时间
-                existing[article['id']]['fetched_at'] = datetime.now().isoformat()
+            # 已存在文章不更新 fetched_at，保持原始抓取时间用于排序 fallback
     
     # 解析日期用于排序
     def parse_date(article):
@@ -134,19 +132,16 @@ def main():
             for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%Y-%m-%dT%H:%M:%S%z', '%Y-%m-%dT%H:%M:%SZ', '%Y-%m-%d %H:%M:%S']:
                 try:
                     return datetime.strptime(dt, fmt)
-                except:
+                except (ValueError, TypeError):
                     pass
         # fallback 用抓取时间
         try:
             return datetime.fromisoformat(article.get('fetched_at', ''))
-        except:
+        except (ValueError, TypeError):
             return datetime.min
 
-    # 按发布时间倒序（新→旧）
-    all_articles = sorted(existing.values(), key=parse_date, reverse=True)
-    
-    # 只保留最近 100 篇
-    all_articles = all_articles[:100]
+    # 按发布时间倒序（新→旧），只保留最近 100 篇
+    all_articles = sorted(existing.values(), key=parse_date, reverse=True)[:100]
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
