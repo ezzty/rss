@@ -5,6 +5,38 @@
       "url": "https://hanyang.wtf/feed"
     },
 	    {
+      "name": "西风",
+      "url": "https://xifeng.net/feed"
+    },
+	{
+      "name": "西运维咖啡吧",
+      "url": "https://blog.ops-coffee.com/feed.xml"
+    },
+	{
+      "name": "兜兜爸投资笔记",
+      "url": "https://ddbzhou.com/index.xml"
+    },
+	{
+      "name": "偶然时刻",
+      "url": "https://joeytoday.com/rss.xml"
+    },
+	{
+      "name": "Ouroboros",
+      "url": "https://blog.pursuitus.com/feed"
+    },
+	{
+      "name": "伪医生律师的博客",
+      "url": "https://chidd.net/feed/"
+    },
+	{
+      "name": "流情",
+      "url": "https://liuqingwushui.top/feed/"
+    },
+	{
+      "name": "白宦成",
+      "url": "https://www.ixiqin.com/feed/"
+    },
+	{
       "name": "krya",
       "url": "https://krya.com/rss.xml"
     }
