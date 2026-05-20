@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+let articles = [];
+let lastUpdate = '';
+
+try {
+  const data = await Astro.resolve('../data/articles.json');
+  const raw = await fetch(data).then(r => r.json());
+  articles = raw;
+  
+  if (articles.length > 0) {
+    lastUpdate = articles[0].fetched_at || '';
+  }
+} catch (e) {
+  articles = [];
+}
+
+// 按日期分组
+const grouped: Record<string, typeof articles> = {};
+articles.forEach(a => {
+  const date = a.pubDate ? new Date(a.pubDate).toLocaleDateString('zh-CN') : '未知日期';
+  if (!grouped[date]) grouped[date] = [];
+  grouped[date].push(a);
+});
+---
+
+<BaseLayout title="RSS 订阅">
+  <p slot="subtitle">
+    {articles.length > 0 ? `共 ${articles.length} 篇文章 · 最后更新 ${new Date(lastUpdate).toLocaleString('zh-CN')}` : '暂无文章，等待抓取...'}
+  </p>
+
+  {articles.length === 0 ? (
+    <div class="empty">
+      <p>📭 还没有文章</p>
+      <p style="margin-top: 12px; font-size: 14px;">添加 RSS 源到 <code>feeds.json</code> 后运行 <code>python3 fetch_rss.py</code></p>
+    </div>
+  ) : (
+    Object.entries(grouped).map(([date, items]) => (
+      <div class="date-group">
+        <div class="date-header">{date}</div>
+        {items.map(article => (
+          <article class="article">
+            <h2><a href={article.link} target="_blank" rel="noopener">{article.title}</a></h2>
+            <div class="meta">
+              <span class="feed">{article.feed}</span>
+              {article.pubDate && <span> · {new Date(article.pubDate).toLocaleString('zh-CN')}</span>}
+            </div>
+            {article.description && <div class="desc">{article.description}...</div>}
+          </article>
+        ))}
+      </div>
+    ))
+  )}
+</BaseLayout>
