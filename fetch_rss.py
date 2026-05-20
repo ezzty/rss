@@ -125,12 +125,25 @@ def main():
                 # 更新抓取时间
                 existing[article['id']]['fetched_at'] = datetime.now().isoformat()
     
-    # 按时间倒序
-    all_articles = sorted(
-        existing.values(),
-        key=lambda x: x.get('pubDate', '') or x['fetched_at'],
-        reverse=True
-    )
+    # 解析日期用于排序
+    def parse_date(article):
+        dt = article.get('pubDate', '')
+        if dt:
+            # 统一处理 GMT 结尾
+            dt = dt.replace(' GMT', ' +0000').replace(' UTC', ' +0000')
+            for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%Y-%m-%dT%H:%M:%S%z', '%Y-%m-%dT%H:%M:%SZ', '%Y-%m-%d %H:%M:%S']:
+                try:
+                    return datetime.strptime(dt, fmt)
+                except:
+                    pass
+        # fallback 用抓取时间
+        try:
+            return datetime.fromisoformat(article.get('fetched_at', ''))
+        except:
+            return datetime.min
+
+    # 按发布时间倒序（新→旧）
+    all_articles = sorted(existing.values(), key=parse_date, reverse=True)
     
     # 只保留最近 100 篇
     all_articles = all_articles[:100]
