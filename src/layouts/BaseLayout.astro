@@ -14,30 +14,32 @@ const { title } = Astro.props;
   <title>{title}</title>
   <style>
     :root {
-      --bg: #fafafa;
+      --bg: #f2f2f5;
+      --card-bg: #ffffff;
       --text: #333;
       --text-secondary: #666;
       --text-muted: #999;
       --border: #eee;
-      --border-light: #f0f0f0;
-      --header-bg: #fafafa;
+      --border-light: #f5f5f7;
+      --header-bg: #ffffff;
       --footer-text: #ccc;
     }
 
     html[data-theme="dark"] {
-      --bg: #1a1a1a;
+      --bg: #121212;
+      --card-bg: #1e1e1e;
       --text: #e0e0e0;
       --text-secondary: #aaa;
       --text-muted: #666;
       --border: #333;
       --border-light: #2a2a2a;
-      --header-bg: #1a1a1a;
+      --header-bg: #1e1e1e;
       --footer-text: #444;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; transition: background 0.2s, color 0.2s; }
-    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; transition: background 0.2s, color 0.2s; min-height: 100vh; padding: 40px 20px; }
+    .container { max-width: 800px; margin: 0 auto; padding: 40px; background: var(--card-bg); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.04); }
     
     header { display: flex; justify-content: space-between; align-items: center; padding: 30px 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 30px; }
     header h1 { font-size: 24px; font-weight: 600; color: var(--text); text-decoration: none !important; border-bottom: none !important; }
