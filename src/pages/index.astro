@@ -1,12 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 
 let articles = [];
 let lastUpdate = '';
 
 try {
-  const data = await Astro.resolve('../data/articles.json');
-  const raw = await fetch(data).then(r => r.json());
+  const filePath = resolve('./data/articles.json');
+  const raw = JSON.parse(readFileSync(filePath, 'utf-8'));
   articles = raw;
   
   if (articles.length > 0) {
