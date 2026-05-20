@@ -4,9 +4,9 @@
       "name": "汉洋滔天",
       "url": "https://hanyang.wtf/feed"
     },
-    {
-      "name": "Hacker News",
-      "url": "https://hnrss.org/frontpage"
+	    {
+      "name": "krya",
+      "url": "https://krya.com/rss.xml"
     }
   ]
 }

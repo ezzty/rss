@@ -4,6 +4,8 @@
 import json
 import os
 import hashlib
+import html
+import re
 from datetime import datetime
 from xml.etree import ElementTree
 from urllib.request import urlopen, Request
@@ -39,8 +41,8 @@ def parse_rss(xml_content, feed_name):
             title = item.findtext('title', '').strip()
             link = item.findtext('link', '').strip()
             desc = item.findtext('description', '').strip()
-            # 清理 HTML 标签
-            import re
+            # 解码 HTML 实体并清理标签
+            desc = html.unescape(desc) if desc else ''
             desc = re.sub(r'<[^>]+>', '', desc) if desc else ''
             pub_date = item.findtext('pubDate', '')
             
@@ -67,6 +69,8 @@ def parse_rss(xml_content, feed_name):
                 title = title_elem.text.strip() if title_elem is not None else ''
                 link = link_elem.get('href', '') if link_elem is not None else ''
                 desc = summary_elem.text.strip() if summary_elem is not None else ''
+                desc = html.unescape(desc) if desc else ''
+                desc = re.sub(r'<[^>]+>', '', desc) if desc else ''
                 pub_date = updated_elem.text if updated_elem is not None else ''
                 
                 if title and link:
