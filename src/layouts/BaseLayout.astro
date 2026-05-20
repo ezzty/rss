@@ -46,19 +46,18 @@ const { title } = Astro.props;
     .theme-toggle { background: none; border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; cursor: pointer; font-size: 18px; color: var(--text); transition: all 0.2s; }
     .theme-toggle:hover { background: var(--border-light); }
 
-    .date-group { 
+    :global(.date-group) { 
       margin-bottom: 64px; 
       border-left: none;
       padding-left: 0; 
       position: relative;
     }
-    /* 增加顶部间距，确保日期之间有明显隔离 */
-    .date-group:not(:first-child) {
+    :global(.date-group:not(:first-child)) {
       margin-top: 64px;
       padding-top: 40px;
       border-top: 2px solid var(--border-light);
     }
-    .date-header { 
+    :global(.date-header) { 
       font-size: 15px; 
       font-weight: 800; 
       color: var(--text); 
@@ -71,7 +70,7 @@ const { title } = Astro.props;
       box-shadow: 0 2px 4px rgba(0,0,0,0.03);
       letter-spacing: 0.5px; 
     }
-    .date-header::before {
+    :global(.date-header::before) {
       content: '📅 ';
     }
     
