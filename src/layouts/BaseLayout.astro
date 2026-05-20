@@ -13,34 +13,60 @@ const { title } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <style>
+    :root {
+      --bg: #fafafa;
+      --text: #333;
+      --text-secondary: #666;
+      --text-muted: #999;
+      --border: #eee;
+      --border-light: #f0f0f0;
+      --header-bg: #fafafa;
+      --footer-text: #ccc;
+    }
+
+    html[data-theme="dark"] {
+      --bg: #1a1a1a;
+      --text: #e0e0e0;
+      --text-secondary: #aaa;
+      --text-muted: #666;
+      --border: #333;
+      --border-light: #2a2a2a;
+      --header-bg: #1a1a1a;
+      --footer-text: #444;
+    }
+
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; background: #fafafa; color: #333; line-height: 1.6; }
+    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; transition: background 0.2s, color 0.2s; }
     .container { max-width: 800px; margin: 0 auto; padding: 20px; }
     
-    header { padding: 30px 0 20px; border-bottom: 1px solid #eee; margin-bottom: 30px; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 30px 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 30px; }
     header h1 { font-size: 24px; font-weight: 600; }
-    header p { color: #999; font-size: 14px; margin-top: 8px; }
+    header p { color: var(--text-muted); font-size: 14px; margin-top: 8px; }
     
+    .theme-toggle { background: none; border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; cursor: pointer; font-size: 18px; color: var(--text); transition: all 0.2s; }
+    .theme-toggle:hover { background: var(--border-light); }
+
     .date-group { margin-bottom: 40px; }
-    .date-header { font-size: 14px; color: #666; font-weight: 600; padding: 8px 0; border-bottom: 2px solid #eee; margin-bottom: 16px; }
+    .date-header { font-size: 14px; color: var(--text-muted); font-weight: 600; padding: 8px 0; border-bottom: 2px solid var(--border); margin-bottom: 16px; }
     
-    .article { padding: 16px 0; border-bottom: 1px solid #f0f0f0; }
+    .article { padding: 16px 0; border-bottom: 1px solid var(--border-light); }
     .article:last-child { border-bottom: none; }
     .article h2 { font-size: 17px; font-weight: 500; margin-bottom: 6px; }
-    .article h2 a { color: #333; text-decoration: none; }
-    .article h2 a:hover { color: #007bff; }
-    .article .meta { font-size: 13px; color: #999; margin-bottom: 8px; }
-    .article .meta .feed { color: #666; font-weight: 500; }
-    .article .desc { font-size: 14px; color: #666; line-height: 1.7; }
-    .article .desc a { color: #007bff; }
+    .article h2 a { color: rgb(19 111 254); text-decoration: none; }
+    .article h2 a:hover { opacity: 0.8; }
+    .article .meta { font-size: 13px; color: var(--text-muted); margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+    .article .meta .feed { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: 500; background: #b3d9ff; color: #fff; }
+    .article .desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; }
+    .article .desc a { color: rgb(19 111 254); }
     
-    .empty { text-align: center; padding: 60px 0; color: #999; }
+    .empty { text-align: center; padding: 60px 0; color: var(--text-muted); }
     .empty p { font-size: 16px; }
     
-    footer { text-align: center; padding: 40px 0; color: #ccc; font-size: 13px; }
+    footer { text-align: center; padding: 40px 0; color: var(--footer-text); font-size: 13px; }
     
     @media (max-width: 600px) {
       .container { padding: 16px; }
+      header { flex-wrap: wrap; }
       header h1 { font-size: 20px; }
       .article h2 { font-size: 15px; }
     }
@@ -49,8 +75,11 @@ const { title } = Astro.props;
 <body>
   <div class="container">
     <header>
-      <h1>📡 RSS 订阅</h1>
-      <p><slot name="subtitle" /></p>
+      <div>
+        <h1>📡 RSS 订阅</h1>
+        <p><slot name="subtitle" /></p>
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换主题">🌙</button>
     </header>
     
     <main>
@@ -61,5 +90,25 @@ const { title } = Astro.props;
       RSS Reader · 每日自动更新
     </footer>
   </div>
+  <script is:inline>
+    const toggle = document.getElementById('themeToggle');
+    const saved = localStorage.getItem('theme');
+    if (saved === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      toggle.textContent = '☀️';
+    }
+    toggle.addEventListener('click', () => {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      if (isDark) {
+        document.documentElement.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'light');
+        toggle.textContent = '🌙';
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        toggle.textContent = '☀️';
+      }
+    });
+  </script>
 </body>
 </html>
