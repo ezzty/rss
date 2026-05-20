@@ -59,6 +59,10 @@ const { title } = Astro.props;
     .article .desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; }
     .article .desc a { color: rgb(19 111 254); }
     
+    html[data-theme="dark"] .article h2 a { color: rgb(130 170 230); }
+    html[data-theme="dark"] .article .desc a { color: rgb(130 170 230); }
+    html[data-theme="dark"] .article .meta .feed { background: #2a4a6b; color: #a0c4e8; }
+    
     .empty { text-align: center; padding: 60px 0; color: var(--text-muted); }
     .empty p { font-size: 16px; }
     
