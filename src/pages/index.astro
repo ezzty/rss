@@ -27,7 +27,7 @@ articles.forEach(a => {
 });
 ---
 
-<BaseLayout title="RSS 订阅">
+<BaseLayout title="FRSS 精选订阅">
   <p slot="subtitle">
     {articles.length > 0 ? `共 ${articles.length} 篇文章 · 最后更新 ${new Date(lastUpdate).toLocaleString('zh-CN')}` : '暂无文章，等待抓取...'}
   </p>
