@@ -47,24 +47,32 @@ const { title } = Astro.props;
     .theme-toggle:hover { background: var(--border-light); }
 
     .date-group { 
-      margin-bottom: 48px; 
-      border-left: 3px solid var(--border); 
-      padding-left: 16px; 
+      margin-bottom: 64px; 
+      border-left: none;
+      padding-left: 0; 
+      position: relative;
+    }
+    /* 增加顶部间距，确保日期之间有明显隔离 */
+    .date-group:not(:first-child) {
+      margin-top: 64px;
+      padding-top: 40px;
+      border-top: 2px solid var(--border-light);
     }
     .date-header { 
-      font-size: 13px; 
-      font-weight: 700; 
+      font-size: 15px; 
+      font-weight: 800; 
       color: var(--text); 
-      background: var(--border-light); 
-      padding: 6px 12px; 
-      margin: -8px -16px 20px -16px; 
-      border-radius: 0 6px 6px 0; 
+      background: var(--bg);
+      display: inline-block;
+      padding: 8px 16px; 
+      margin-bottom: 24px; 
+      border-radius: 4px;
+      border: 1px solid var(--border);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.03);
       letter-spacing: 0.5px; 
-      text-transform: uppercase;
     }
     .date-header::before {
       content: '📅 ';
-      font-size: 12px;
     }
     
     .article { 
