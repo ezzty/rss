@@ -13,16 +13,28 @@
       "url": "https://blog.ops-coffee.com/feed.xml"
     },
 	{
-      "name": "兜兜爸投资笔记",
-      "url": "https://ddbzhou.com/index.xml"
-    },
-	{
       "name": "偶然时刻",
       "url": "https://joeytoday.com/rss.xml"
     },
 	{
       "name": "Ouroboros",
       "url": "https://blog.pursuitus.com/feed"
+    },
+	{
+      "name": "郝鸿涛",
+      "url": "https://hongtaoh.com/cn/index.xml"
+    },
+	{
+      "name": "落圆",
+      "url": "https://loyhome.com/feed/"
+    },
+	{
+      "name": "土木坛子",
+      "url": "https://tumutanzi.com/feed"
+    },
+	{
+      "name": "yufree",
+      "url": "https://yufree.cn/cn/index.xml"
     },
 	{
       "name": "伪医生律师的博客",
