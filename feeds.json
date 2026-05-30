@@ -48,9 +48,13 @@
       "name": "白宦成",
       "url": "https://www.ixiqin.com/feed/"
     },
-	{
+    {
       "name": "krya",
       "url": "https://krya.com/rss.xml"
+    },
+    {
+      "name": "利器",
+      "url": "https://liqi.io/index.xml"
     }
   ]
 }
