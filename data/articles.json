@@ -1,5 +1,14 @@
 [
   {
+    "id": "bd72ca017175",
+    "title": "第三周刊_No.55｜保卫复杂：科技发展消灭人与人之间的真实互动",
+    "link": "https://joeytoday.com/blog/2026/weekly-55",
+    "description": "我们的偶然失误和古怪行为其实很有趣——正是这些东西让生活充满乐趣。",
+    "feed": "偶然时刻",
+    "pubDate": "Wed, 03 Jun 2026 00:00:00 GMT",
+    "fetched_at": "2026-06-04T08:02:30.843276"
+  },
+  {
     "id": "3be0965b37df",
     "title": "加更：体验 Waymo 无人驾驶汽车",
     "link": "https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/",
@@ -889,14 +898,5 @@
     "feed": "白宦成",
     "pubDate": "Fri, 27 Feb 2026 10:32:02 +0000",
     "fetched_at": "2026-05-22T08:02:07.699333"
-  },
-  {
-    "id": "2c219dc12566",
-    "title": "春节假期，我又做了一款 WordPress 主题",
-    "link": "https://xifeng.net/archives/23",
-    "description": "在春节假期期间，自主开发了第三款WordPress主题。该主题的设计灵感源于Laravel官网简洁有力的视觉风格。开发过程采用vibe coding模式，并广泛使用各类AI编程辅助工具。主题功能包括：支持自定义文章排版结构、集成AI摘要服务、内置Memos和RSS缓存页面、将音乐播放器等组件拆分为独立插件，以及增强的代码分享功能（支持HTML直接运行与下载）。主题注重细节设计，如直角评论风格和响应",
-    "feed": "西风",
-    "pubDate": "Thu, 26 Feb 2026 00:50:00 +0000",
-    "fetched_at": "2026-05-22T08:01:55.863892"
   }
 ]
