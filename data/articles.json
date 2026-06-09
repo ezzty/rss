@@ -1,5 +1,14 @@
 [
   {
+    "id": "26cba4c501e0",
+    "title": "Discours N°20",
+    "link": "https://blog.pursuitus.com/discourse-20.html",
+    "description": "Status 天气突然就热了起来，五月份直逼30度，六月份进入梅雨季节。周末逼迫自己出门一天，沿着苏州河闲逛，如果在家的话可以无所事事一天，树说我对自己要求太高，无所事事也不无不可。马上就是上海电影节，路上看到海报，但时间问题一场都没得看，唉。 Things 维生素D 最近持续的垂头丧气，似乎不是因为厌班，但生活中也没有任何事情，询问GPT说可能是长期高认知负荷后的“意义耗竭”，有点复杂到看不懂了",
+    "feed": "Ouroboros",
+    "pubDate": "Mon, 08 Jun 2026 16:06:18 +0000",
+    "fetched_at": "2026-06-09T08:00:32.629410"
+  },
+  {
     "id": "bd72ca017175",
     "title": "第三周刊_No.55｜保卫复杂：科技发展消灭人与人之间的真实互动",
     "link": "https://joeytoday.com/blog/2026/weekly-55",
@@ -889,14 +898,5 @@
     "feed": "白宦成",
     "pubDate": "Sat, 28 Feb 2026 11:02:14 +0000",
     "fetched_at": "2026-05-22T08:02:07.699308"
-  },
-  {
-    "id": "34eb0c52b0d5",
-    "title": "2026 欧洲之旅 Day 12 ：Bernini",
-    "link": "https://www.ixiqin.com/2026/02/27/2026-european-tour-day-12-bernini/",
-    "description": "前 11 天的行程 2026 法国之旅：Day 0 2026 欧洲之旅 Day 1：落地巴黎 & 油封 […]",
-    "feed": "白宦成",
-    "pubDate": "Fri, 27 Feb 2026 10:32:02 +0000",
-    "fetched_at": "2026-05-22T08:02:07.699333"
   }
 ]
