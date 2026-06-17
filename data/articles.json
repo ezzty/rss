@@ -1,5 +1,41 @@
 [
   {
+    "id": "c74a9c8b9393",
+    "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
+    "link": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
+    "description": "作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […]",
+    "feed": "白宦成",
+    "pubDate": "Tue, 16 Jun 2026 15:30:22 +0000",
+    "fetched_at": "2026-06-17T08:00:26.218145"
+  },
+  {
+    "id": "03ed7d7d49c6",
+    "title": "2026 欧洲之旅：坐大巴",
+    "link": "https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/",
+    "description": "欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […]",
+    "feed": "白宦成",
+    "pubDate": "Tue, 16 Jun 2026 12:44:15 +0000",
+    "fetched_at": "2026-06-17T08:00:26.218201"
+  },
+  {
+    "id": "576e88b0de53",
+    "title": "小确幸的一天",
+    "link": "https://liuqingwushui.top/archives/163/",
+    "description": "6月15日，博主经历了美好的一天。由于前晚没睡好，上班时泡茶养生。15号是发工资的日子，博主感到兴奋。午睡后收到端午节礼盒，博主计划将礼盒寄回家。下午收到银行短信，见证努力工作的成果。晚上下班后...",
+    "feed": "流情",
+    "pubDate": "Tue, 16 Jun 2026 14:12:55 +0800",
+    "fetched_at": "2026-06-17T08:00:25.776864"
+  },
+  {
+    "id": "c7276f2ad8f0",
+    "title": "第三周刊_No.56｜有限与无限的游戏",
+    "link": "https://joeytoday.com/blog/2026/weekly-56",
+    "description": "我们欢笑，并非因为有什么出人意料的使人无法继续的东西，而是因为那些出人意料地令人可以继续的东西。",
+    "feed": "偶然时刻",
+    "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "fetched_at": "2026-06-17T08:00:16.994812"
+  },
+  {
     "id": "722da7f4fa60",
     "title": "梦里远行",
     "link": "https://liuqingwushui.top/archives/162/",
@@ -7,6 +43,15 @@
     "feed": "流情",
     "pubDate": "Mon, 15 Jun 2026 10:00:07 +0800",
     "fetched_at": "2026-06-16T08:01:17.297398"
+  },
+  {
+    "id": "55ceae73bb5b",
+    "title": "2026 欧洲之旅：资产安全",
+    "link": "https://www.ixiqin.com/2026/06/15/2026-european-tour-asset-security/",
+    "description": "作者在前往法国前，为防范盗窃准备了多种资产安全物品。这些物品包括用于固定行李的自行车锁、带TSA锁的行李加固带 […]",
+    "feed": "白宦成",
+    "pubDate": "Sun, 14 Jun 2026 19:49:25 +0000",
+    "fetched_at": "2026-06-17T08:00:26.218229"
   },
   {
     "id": "bed728d1f40e",
@@ -853,50 +898,5 @@
     "feed": "西风",
     "pubDate": "Thu, 12 Mar 2026 00:13:00 +0000",
     "fetched_at": "2026-05-22T08:01:55.863866"
-  },
-  {
-    "id": "e6c4adc49225",
-    "title": "我用 OpenClaw 干了这些事",
-    "link": "https://krya.com/post/openclaw/",
-    "description": "\n作为一个传统 C 端电商的从业者，我既不是职业程序员，也没有任何编程基础。在此之前，我对 AI 的认知仅仅停留在\"智能音箱\"和\"手机语音助手\"的层面。然而作为一个技术爱好者，了解到最近最热门的openclaw，自然要尝试一番。\n\n为什么选择 OpenClaw？openclaw可以解决这些重复性的问题。我从事的是传统电商行业，日常工作中需要处理大量的订单、库存和客户沟通。我被它的理念深深吸引——它",
-    "feed": "krya",
-    "pubDate": "Mon, 09 Mar 2026 05:47:44 GMT",
-    "fetched_at": "2026-05-22T08:02:08.909805"
-  },
-  {
-    "id": "0eba675b9613",
-    "title": "xTools：一个更适合日常维护的 WordPress 工具集插件",
-    "link": "https://xifeng.net/archives/25",
-    "description": "xTools 是 WP Starter Kit 的升级版本，整合了多个常用功能于一个后台界面，旨在简化 WordPress 后台工具的使用。主要功能包括邮件发送、邮件模板管理、CDN 加速、文章 ID 替换、数据库管理和系统体检。邮件模块支持多种发送方式，CDN 加速可一键替换加载地址，ID 替换可解决文章编号不连续的问题，数据库管理提供备份与恢复功能，系统体检显示环境状态，常规优化可快速调整后台",
-    "feed": "西风",
-    "pubDate": "Sat, 07 Mar 2026 15:58:00 +0000",
-    "fetched_at": "2026-05-22T08:01:55.863881"
-  },
-  {
-    "id": "242e5c0cb704",
-    "title": "给人文工作者的 AI 使用指南",
-    "link": "https://hanyang.wtf/p/ai",
-    "description": "不要再对着 AI 许愿了！",
-    "feed": "汉洋滔天",
-    "pubDate": "Thu, 05 Mar 2026 01:02:12 GMT",
-    "fetched_at": "2026-05-22T08:01:54.591055"
-  },
-  {
-    "id": "d0d993aefd40",
-    "title": "公众号样式完全自定义，我的 Obsidian 一键发布插件 2.0 来了",
-    "link": "https://joeytoday.com/blog/2026/obsidian-plugin-mp-publisher-20",
-    "description": "MP Publisher 2.0 大更新：纯 CSS 主题系统，想要什么样式自己写，还有可视化主题管理、Callout 支持，写完一键发公众号。",
-    "feed": "偶然时刻",
-    "pubDate": "Thu, 05 Mar 2026 00:00:00 GMT",
-    "fetched_at": "2026-05-22T08:01:58.665495"
-  },
-  {
-    "id": "46932b2aa9cf",
-    "title": "High Agency人格",
-    "link": "https://loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-    "description": "最近学到一个新词儿：high agency。 英文的定义是 High agency refers to an individual's intense, proactive drive to control their own destiny, shaping outcomes by overcoming obstacles rather than waiting for permission o",
-    "feed": "落圆",
-    "pubDate": "Mon, 02 Mar 2026 05:19:28 +0000",
-    "fetched_at": "2026-05-22T08:02:02.910832"
   }
 ]
