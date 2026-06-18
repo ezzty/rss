@@ -1,5 +1,23 @@
 [
   {
+    "id": "d55111c1b0a8",
+    "title": "UniGetUI —— 可能是 Windows 下最好用的应用商店",
+    "link": "https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/",
+    "description": "UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […]",
+    "feed": "白宦成",
+    "pubDate": "Wed, 17 Jun 2026 00:58:52 +0000",
+    "fetched_at": "2026-06-18T08:00:41.735137"
+  },
+  {
+    "id": "e8f9729ccd12",
+    "title": "第三周刊_No.57｜一个非程序员用AI写代码的思考",
+    "link": "https://joeytoday.com/blog/2026/weekly-57",
+    "description": "AI 的风险不在它替代人类，而在它让某些人变得更容易被替代。那些被限定在有限游戏中的人，被要求只需按照规则执行的人，不是因为不够努力而被替代，而是因为他们的工作本身被设计成了可替换的。",
+    "feed": "偶然时刻",
+    "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "fetched_at": "2026-06-18T08:00:32.124801"
+  },
+  {
     "id": "c74a9c8b9393",
     "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
     "link": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
@@ -880,23 +898,5 @@
     "feed": "西运维咖啡吧",
     "pubDate": "Sat, 14 Mar 2026 11:12:01 +0800",
     "fetched_at": "2026-05-22T08:01:56.743485"
-  },
-  {
-    "id": "c405fa738e55",
-    "title": "无常",
-    "link": "https://blog.pursuitus.com/impermanence.html",
-    "description": "早上听说大姑家的表哥糖尿病并发症过世了，还算年轻，50多岁。上一次见面是24年回老家参加葬礼，和他闲聊说眼睛快要看不见了，儿子在部队发展的还不错。 要说难过肯定是不至于的，因为一些家长里短的事情十几二十年不通音信，但记忆里总有一些印象深刻的碎片。 第一次见他是我小学三年级回老家，因为父亲和大姑父关系好，他来接。当时他大约20多岁，在小县城开了一家摩托汽修店，高高壮壮的青年，爱笑，店里生意看起来很红",
-    "feed": "Ouroboros",
-    "pubDate": "Fri, 13 Mar 2026 08:05:55 +0000",
-    "fetched_at": "2026-05-22T08:02:00.013346"
-  },
-  {
-    "id": "a9f1e395cf90",
-    "title": "AI Bridge 中转插件，适配 WordPress 7.0",
-    "link": "https://xifeng.net/archives/26",
-    "description": "WordPress 更新至 7.0 Beta 版本，内置了 Anthropic、Google 和 OpenAI 的 API 连接器，便于统一管理 API 密钥。用户在使用 OpenAI 时遇到地域限制问题，尝试通过开发 AI Bridge 插件实现代理服务，支持出国和回国模式，便于在不同网络环境下调用 AI 服务。插件可免费使用，并提供 GitHub 开源版本，用户可自行部署。测试显示插件成功连接",
-    "feed": "西风",
-    "pubDate": "Thu, 12 Mar 2026 00:13:00 +0000",
-    "fetched_at": "2026-05-22T08:01:55.863866"
   }
 ]
