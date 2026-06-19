@@ -1,5 +1,14 @@
 [
   {
+    "id": "f78a64069cd1",
+    "title": "端午出游—A计划，I启动",
+    "link": "https://liuqingwushui.top/archives/164/",
+    "description": "博主计划在端午节假期去成都新津旅游，参加夜市、包粽子比赛和龙舟比赛，并游览老君山和斑竹林。AI（龙虾阿甘）帮助博主规划了行程，包括交通、住宿、活动安排和预算，确保旅行顺利且经济实惠。",
+    "feed": "流情",
+    "pubDate": "Thu, 18 Jun 2026 11:40:00 +0800",
+    "fetched_at": "2026-06-19T08:00:53.609558"
+  },
+  {
     "id": "d55111c1b0a8",
     "title": "UniGetUI —— 可能是 Windows 下最好用的应用商店",
     "link": "https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/",
@@ -889,14 +898,5 @@
     "feed": "krya",
     "pubDate": "Tue, 17 Mar 2026 13:27:40 GMT",
     "fetched_at": "2026-05-22T08:02:08.909766"
-  },
-  {
-    "id": "0666f9e7c659",
-    "title": "一个集记账、基金、股票于一体的APP",
-    "link": "https://blog.ops-coffee.com/fire/ai-coding-integrated-finance-app.html",
-    "description": "利用AI技术开发的财务管理APP，集记账、基金、股票于一体，简化财务管理流程，支持多账本、基金实时估值、股票持仓成本计算，提供云同步和多平台支持。",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sat, 14 Mar 2026 11:12:01 +0800",
-    "fetched_at": "2026-05-22T08:01:56.743485"
   }
 ]
