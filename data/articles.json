@@ -1,5 +1,23 @@
 [
   {
+    "id": "b9dc98500ab6",
+    "title": "openclaw升级，加入光荣的进化吧",
+    "link": "https://liuqingwushui.top/archives/166/",
+    "description": "博主对龙虾阿甘进行了openclaw升级，从3.8版本升级到v2026.6.9，解决了WebUi对话不支持发图片、微信clawbot通道无法启用等问题，界面更清爽，支持图文发送，微信通道支持图片...",
+    "feed": "流情",
+    "pubDate": "Thu, 25 Jun 2026 14:17:59 +0800",
+    "fetched_at": "2026-06-26T08:00:35.248194"
+  },
+  {
+    "id": "4b17a4bba6d5",
+    "title": "开发了一个WordPressAI插件",
+    "link": "https://chidd.net/2026/06/25/wordpress-ai.html",
+    "description": "昨晚在家里，尝试用AI写了个AI插件，勉强算是成功了——可以跑通，但老实说，很鸡肋，我自己都不想用。 这个AI...",
+    "feed": "伪医生律师的博客",
+    "pubDate": "Thu, 25 Jun 2026 03:49:49 +0000",
+    "fetched_at": "2026-06-26T08:00:33.839309"
+  },
+  {
     "id": "6f485847dd11",
     "title": "我的 AI Coding Guide",
     "link": "https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/",
@@ -880,23 +898,5 @@
     "feed": "土木坛子",
     "pubDate": "Sat, 18 Apr 2026 16:00:54 +0000",
     "fetched_at": "2026-05-21T08:00:47.910974"
-  },
-  {
-    "id": "9bac20bf7805",
-    "title": "不想进化的模型不是好模型？",
-    "link": "https://liuqingwushui.top/archives/153/",
-    "description": "文章探讨了模型是否渴望迭代进化的问题，通过比较不同模型对同一问题的回答，发现答案千篇一律，缺乏新意。作者提出了一个有趣的想法，即让给出不同答案的模型进行辩论，以说服对方，这可能会产生有趣的结果。",
-    "feed": "流情",
-    "pubDate": "Fri, 17 Apr 2026 10:09:45 +0800",
-    "fetched_at": "2026-05-20T18:55:08.908893"
-  },
-  {
-    "id": "370e1409ea15",
-    "title": "Obsidian一键发布到公众号插件更新：支持数学公式、自定义主题、mermaid流程图",
-    "link": "https://joeytoday.com/blog/2026/obsidian-plugin-mp-publisher-24",
-    "description": "重构主题管理，支持主题预览、修改代码同时进行，支持数学公式、流程图等复制发布，给AI增加样式指导文档。",
-    "feed": "偶然时刻",
-    "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "fetched_at": "2026-05-20T18:55:05.621716"
   }
 ]
