@@ -1,5 +1,41 @@
 [
   {
+    "id": "2bafe8b7cf66",
+    "title": "这言论，好特么有道理",
+    "link": "https://liuqingwushui.top/archives/168/",
+    "description": "这篇文章分享了城市生活中的独特快乐，包括零成本蹭快乐、当城市透明人、寻找城市里的“野生角落”和故意干没用的傻逼事。作者强调，在城市里，因为没人认识你，你可以自由地做任何事而不受评判，这是城市生活...",
+    "feed": "流情",
+    "pubDate": "Tue, 30 Jun 2026 09:14:53 +0800",
+    "fetched_at": "2026-07-01T08:01:13.324338"
+  },
+  {
+    "id": "ab3295dd9d8b",
+    "title": "AI带来的信息污染",
+    "link": "https://tumutanzi.com/archives/17614",
+    "description": "在生成式人工智能AIGC大规模流行之前，在网上要生成一点文字，还是需要费点劲的，那些靠搜索引擎东拼西凑出来的内 […]",
+    "feed": "土木坛子",
+    "pubDate": "Tue, 30 Jun 2026 07:31:50 +0000",
+    "fetched_at": "2026-07-01T08:01:09.537681"
+  },
+  {
+    "id": "3f9882a99174",
+    "title": "第三周刊_No.59｜友谊是很酷儿的关系",
+    "link": "https://joeytoday.com/blog/2026/weekly-59",
+    "description": "世上总有人纯粹而聪敏，能够明了这情感。",
+    "feed": "偶然时刻",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "fetched_at": "2026-07-01T08:01:03.922722"
+  },
+  {
+    "id": "5a160abb4037",
+    "title": "刻舟求剑",
+    "link": "https://yufree.cn/cn/2026/06/30/living-in-the-past/",
+    "description": "我三十出头时特别好为人师，总以为自己看到了别人看不到的东西，喜欢对别人的判断指指点点。现在快四十了，这个毛病还有，但会有意识克制说教的冲动，很多人说了也不听，说了能听的大概率自己就能想到，真需要我去戳窗户纸的情况极其罕见，而且我说的也不一定对。又到志愿填报季了，只提示一点，不要刻舟求剑。\n所谓刻舟求剑，就是拿当前当地的局势判断未来全局的局势，信仰周期性理论，选专业、选工作、投资、人生决策这些都不是",
+    "feed": "yufree",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fetched_at": "2026-07-01T08:01:10.970089"
+  },
+  {
     "id": "15fb37e1aa34",
     "title": "有朋自远方来，虽远必诛",
     "link": "https://liuqingwushui.top/archives/167/",
@@ -862,41 +898,5 @@
     "feed": "白宦成",
     "pubDate": "Wed, 22 Apr 2026 16:56:52 +0000",
     "fetched_at": "2026-05-20T18:55:09.362729"
-  },
-  {
-    "id": "e062e229ef42",
-    "title": "如何使用 Vercel Seat Saver skill 帮你将 Vercel 组织订单账单降低至 20 美元？",
-    "link": "https://www.ixiqin.com/2026/04/21/how-to-use-vercel-seat-saver-kill-to-help-you-reduce/",
-    "description": "前些日子，我发了条推说，我说看到了一个 Skill ，可以帮助你得组织快速降低你的订单金额，并说要写篇 Blo […]",
-    "feed": "白宦成",
-    "pubDate": "Tue, 21 Apr 2026 13:47:00 +0000",
-    "fetched_at": "2026-05-20T18:55:09.362754"
-  },
-  {
-    "id": "edaf4f4e33a3",
-    "title": "从Typecho迁移到Astro",
-    "link": "https://krya.com/post/astro-sintu-theme/",
-    "description": "\n之前用动态博客总是担心服务器忘了续费，或者程序升级出问题；接触了静态博客之后，认为这是非常理想的解决方式，在Hugo、Hexo和Astro几个方案比较之后，最终选择了Astro.\n静态博客的优势\n\n免费托管 - 除了域名，大厂给个人开发者提供了免费的托管服务。\n零维护 - 文章都是放到自己电脑，只要托管平台不倒闭，博客可以永久运行。\n预渲染 - 静态博客在部署前就已经生成了纯 HTML/CSS/",
-    "feed": "krya",
-    "pubDate": "Mon, 20 Apr 2026 08:00:00 GMT",
-    "fetched_at": "2026-05-20T18:55:10.546475"
-  },
-  {
-    "id": "826c57780246",
-    "title": "那个集记账、基金、股票于一体的APP，IOS测试上线",
-    "link": "https://blog.ops-coffee.com/fire/financial-manager-app-update-and-ios-test-progress.html",
-    "description": "财务管家APP本周更新了分红管理和存钱计划功能，iOS测试对VIP用户开放。安卓用户可直接下载安装，会员享受云同步等所有功能。",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sun, 19 Apr 2026 16:46:22 +0800",
-    "fetched_at": "2026-05-20T18:55:02.055366"
-  },
-  {
-    "id": "d508780bab46",
-    "title": "自然生活的数学原理",
-    "link": "https://yufree.cn/cn/2026/04/19/%E8%87%AA%E7%84%B6%E7%94%9F%E6%B4%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/",
-    "description": "《自然生活的数学原理》这本在线电子书是我18年做博后时启动的个人项目，包含了生活中对衣食住行的思考汇总，部分在博客里出现过，最近重写成完全体了。读前提醒，相比科研，生活规律性很差，主观成分很高。虽然有些事我们可以量化，但也许并不需要量化。有些事我们觉得有无限可能，但限制无处不在。我的个人经验很有可能是一种画地为牢，莫要沉浸其中。\n本书最大的参考意义是提醒你关注生活并学会好好生活，这在人工智能时代很",
-    "feed": "yufree",
-    "pubDate": "Sun, 19 Apr 2026 00:00:00 +0000",
-    "fetched_at": "2026-05-21T08:00:48.309606"
   }
 ]
