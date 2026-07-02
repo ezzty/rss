@@ -1,5 +1,23 @@
 [
   {
+    "id": "af9a82643ec8",
+    "title": "对平台存在敬畏",
+    "link": "https://www.ixiqin.com/2026/07/01/respect-for-the-platform/",
+    "description": "我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 …",
+    "feed": "白宦成",
+    "pubDate": "Wed, 01 Jul 2026 09:33:15 +0000",
+    "fetched_at": "2026-07-02T08:00:35.044975"
+  },
+  {
+    "id": "88456fabbdf2",
+    "title": "2026上半年研究速递",
+    "link": "https://yufree.cn/cn/2026/07/01/2026/",
+    "description": "这是公众号环境黑板报上半年所有研究速递的汇总。研究速递是关于环境相关的研究吐槽，主要关注期刊是ACS的ES&T系列期刊论文、nature的环境相关论文，还有EHP论文。目前投稿都是在github上完成的，每月总结一次推送到公众号，欢迎各位同学来此投稿：https://github.com/yufree/hjhbb/issues/178 （2026年7月）\n一月\n研究动态\n\n这篇文章讨论了开放式厨房",
+    "feed": "yufree",
+    "pubDate": "Wed, 01 Jul 2026 00:00:00 +0000",
+    "fetched_at": "2026-07-02T08:00:32.668306"
+  },
+  {
     "id": "2bafe8b7cf66",
     "title": "这言论，好特么有道理",
     "link": "https://liuqingwushui.top/archives/168/",
@@ -880,23 +898,5 @@
     "feed": "皮皮",
     "pubDate": "Fri, 24 Apr 2026 07:15:41 +0000",
     "fetched_at": "2026-06-25T08:01:39.839146"
-  },
-  {
-    "id": "8c85e9ad921f",
-    "title": "为了给自己写一个读书卡片，然后改版了整个个人网站",
-    "link": "https://joeytoday.com/blog/2026/myblog-redesign-v3",
-    "description": "个人网站大改版，从读书卡片设计到页面设计",
-    "feed": "偶然时刻",
-    "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
-    "fetched_at": "2026-05-20T18:55:05.621711"
-  },
-  {
-    "id": "35711916aa0d",
-    "title": "工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法",
-    "link": "https://www.ixiqin.com/2026/04/23/how-engineers-can-truly-bring-together-multiple-coding/",
-    "description": "随着 Agent 的时代的到来和 AI Coding 工具的兴起，被 AI 冲击的最狠的软件工程领域也迎来一轮 […]",
-    "feed": "白宦成",
-    "pubDate": "Wed, 22 Apr 2026 16:56:52 +0000",
-    "fetched_at": "2026-05-20T18:55:09.362729"
   }
 ]
