@@ -1,5 +1,23 @@
 [
   {
+    "id": "a66766d71317",
+    "title": "游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾",
+    "link": "https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html",
+    "description": "",
+    "feed": "西运维咖啡吧",
+    "pubDate": "Sun, 05 Jul 2026 18:08:22 +0000",
+    "fetched_at": "2026-07-06T08:00:18.820871"
+  },
+  {
+    "id": "59a78970fcf6",
+    "title": "基于GPU的探索性数据分析",
+    "link": "https://yufree.cn/cn/2026/07/05/gpu/",
+    "description": "表格数据是实验学科科研里最常用的格式之一，特别是组学，现在有了单细胞转录组学跟高分辨质谱成像，这张表动辄几百万行上万列。这个数据量在CPU生态下做探索性数据分析几乎就是个灾难，要么就是爆内存，要么就是特别慢。我最近遇到这个问题，然后发现当前GPU是可以部分解决这个问题的，这里做个笔记。\n虽然pytorch可以在不同平台编译做一些深度学习项目，但不得不承认基于CUDA的GPU生态，特别是RAPIDS",
+    "feed": "yufree",
+    "pubDate": "Sun, 05 Jul 2026 00:00:00 +0000",
+    "fetched_at": "2026-07-06T08:00:27.521180"
+  },
+  {
     "id": "47fd8b3bf226",
     "title": "第三周刊_No.61｜她们的房间：如果我阅读着这样的故事长大（虚构类）",
     "link": "https://joeytoday.com/blog/2026/weekly-61",
@@ -880,23 +898,5 @@
     "feed": "西风",
     "pubDate": "Mon, 27 Apr 2026 03:19:00 +0000",
     "fetched_at": "2026-05-20T18:55:01.238886"
-  },
-  {
-    "id": "e970e507ef6e",
-    "title": "游记｜在宜兴度过一个平淡的假期",
-    "link": "https://blog.ops-coffee.com/r/city-china-jiangsu-wuxi-yixing-tuanjiu.html",
-    "description": "",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sun, 26 Apr 2026 19:39:27 +0800",
-    "fetched_at": "2026-05-20T18:55:02.055358"
-  },
-  {
-    "id": "122be6969529",
-    "title": "遗爱寺",
-    "link": "https://blog.pursuitus.com/yiai-temple.html",
-    "description": "遗爱寺 导演/编剧：双雪涛 主演：章宇 / 赵晓璐 / 李蔓瑄 2026.4.26 Young剧场 朋友给的赠票，第六排，位置绝佳，还是听不清台词。故事看完，有点没懂，不是复杂，是太日常，日常到不知道导演到底想表达什么。 看了下其他观众的反馈，应该不是我的问题，双雪涛导演真的不行，演员也一般般，听不清是演员台词功底太差，一开始章宇的大段独白就只听清楚了“林冲”几个字，演绎过程中还有明显卡壳和念错的",
-    "feed": "Ouroboros",
-    "pubDate": "Sun, 26 Apr 2026 16:17:22 +0000",
-    "fetched_at": "2026-05-20T18:55:06.773327"
   }
 ]
