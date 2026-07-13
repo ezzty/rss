@@ -1,5 +1,14 @@
 [
   {
+    "id": "7e4e90bbaed7",
+    "title": "SpaceX的IPO新股申购记",
+    "link": "https://tumutanzi.com/archives/17616",
+    "description": "人类历史上目前最大市值的IPO是上个月6月12日的SpaceX，这固然有马斯克画的大饼，但是本着对新生事物宁可 […]",
+    "feed": "土木坛子",
+    "pubDate": "Sat, 11 Jul 2026 16:00:37 +0000",
+    "fetched_at": "2026-07-13T08:01:10.270334"
+  },
+  {
     "id": "6c191632950f",
     "title": "关于AI的一些碎片思考",
     "link": "https://chidd.net/2026/07/10/about-ai.html",
@@ -889,14 +898,5 @@
     "feed": "流情",
     "pubDate": "Thu, 30 Apr 2026 10:26:17 +0800",
     "fetched_at": "2026-05-20T18:55:08.908883"
-  },
-  {
-    "id": "7d1eeba0b765",
-    "title": "GPT Image 2 日签提示词",
-    "link": "https://xifeng.net/archives/30",
-    "description": "分享提示词用于生成具有高级审美和阅读价值的“日签海报”，核心要求是画面、文案与信息三者统一。画面需有杂志感与氛围感，文案成熟有记忆点，并融入“历史上的今天”真实内容，避免廉价鸡汤或模板化设计。",
-    "feed": "西风",
-    "pubDate": "Wed, 29 Apr 2026 11:29:00 +0000",
-    "fetched_at": "2026-05-20T18:55:01.238876"
   }
 ]
