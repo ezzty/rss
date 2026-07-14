@@ -1,5 +1,23 @@
 [
   {
+    "id": "5fc97dccd42a",
+    "title": "孤独行者的孤独记",
+    "link": "https://liuqingwushui.top/archives/172/",
+    "description": "文章讨论了网上流传的十大孤独行为等级，并分享了博主个人的经历。博主自称为十级孤独选手，最近独自去看电影《功夫女足》，在成都来福士卢米埃影院。博主描述了从早上起床到晚上看电影的一系列活动，包括抓娃...",
+    "feed": "流情",
+    "pubDate": "Mon, 13 Jul 2026 10:44:16 +0800",
+    "fetched_at": "2026-07-14T08:00:31.217899"
+  },
+  {
+    "id": "cdab7547b6d5",
+    "title": "向云端｜西南自驾01 - 裸辞",
+    "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html",
+    "description": "",
+    "feed": "西运维咖啡吧",
+    "pubDate": "Sun, 12 Jul 2026 03:54:06 +0000",
+    "fetched_at": "2026-07-14T08:00:19.766092"
+  },
+  {
     "id": "7e4e90bbaed7",
     "title": "SpaceX的IPO新股申购记",
     "link": "https://tumutanzi.com/archives/17616",
@@ -880,23 +898,5 @@
     "feed": "西风",
     "pubDate": "Sun, 03 May 2026 05:05:00 +0000",
     "fetched_at": "2026-05-20T18:55:01.238865"
-  },
-  {
-    "id": "9d9a02473eff",
-    "title": "本地科研助理",
-    "link": "https://yufree.cn/cn/2026/05/02/scinotes/",
-    "description": "去年年底我就开始关注龙虾类应用，自己也折腾了一段时间，热度过去基本就闲置了，更多时候还是用自然语言编程。后来仔细回忆了一下，我其实不排斥搞一个个人助理，真正没放开用是因为不了解其实现过程，担心出错跟信息泄露。那解决方案就很简单了，自己搭一个。\n我的核心诉求很简单，就是要一个能在 Telegram 和 QQ 里对话的科研助理。这里面有几个要素需要保证：\n\n\n要能调用本地qwen3.5的小模型做翻译、",
-    "feed": "yufree",
-    "pubDate": "Sat, 02 May 2026 00:00:00 +0000",
-    "fetched_at": "2026-05-21T08:00:48.309593"
-  },
-  {
-    "id": "ba4bd4d52105",
-    "title": "通过openclaw装hermes，倒反天罡",
-    "link": "https://liuqingwushui.top/archives/155/",
-    "description": "最近有没有发现，养虾潮好像退却了。朋友圈和各大媒体也很少再看到关于openclaw的消息。不过，AI时代的到来，新事物的诞生和技术的迭代是呈指数增长的。没有时间为opencalw的退场感伤，接下...",
-    "feed": "流情",
-    "pubDate": "Thu, 30 Apr 2026 10:26:17 +0800",
-    "fetched_at": "2026-05-20T18:55:08.908883"
   }
 ]
