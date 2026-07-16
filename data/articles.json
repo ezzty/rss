@@ -1,5 +1,23 @@
 [
   {
+    "id": "9bcbfe39697c",
+    "title": "写了一个嵌入式 Mock 工具",
+    "link": "https://lynan.cn/embedded-mock-tools/",
+    "description": "最近写了一个小工具：embedded-mock-tools，很直接地说，100% 由 AI 完成的 Coding 工作，我只是不断地告诉它我要实现什么需求，从结果来看，它对我的需求实现得很好。\n\n  \n  LynanBreeze/embedded-mock-tools: An embedded network request interception and mock panel prototyp",
+    "feed": "Lynan",
+    "pubDate": "7 月 15 日，2026",
+    "fetched_at": "2026-07-16T08:01:06.500685"
+  },
+  {
+    "id": "e0e86610aba0",
+    "title": "在不適合的環境中努力，並不等於成長",
+    "link": "https://xpipix.com/6036.html",
+    "description": "已經很久沒有面試，幸好經過兩次面試，同時獲得兩份工作邀請。經過審慎考慮，最終已確定加入新的公司。與幾位老朋友談 […]",
+    "feed": "皮皮",
+    "pubDate": "Wed, 15 Jul 2026 12:57:40 +0000",
+    "fetched_at": "2026-07-16T08:01:07.978030"
+  },
+  {
     "id": "d09d5d5dc979",
     "title": "成年人的世界",
     "link": "https://liuqingwushui.top/archives/173/",
@@ -880,23 +898,5 @@
     "feed": "西运维咖啡吧",
     "pubDate": "Thu, 07 May 2026 21:12:51 +0800",
     "fetched_at": "2026-05-20T18:55:02.055353"
-  },
-  {
-    "id": "cda1d158cd0a",
-    "title": "当 AI 编程开始“常驻菜单栏”：5 个 macOS 开发者效率工具推荐",
-    "link": "https://xifeng.net/archives/32",
-    "description": "AI 编程已从网页聊天深入开发工作流，但多 Agent 并行带来的 Token 管理、窗口恢复、Session 监控等新痛点随之浮现。macOS 上新兴的“AI 编程状态层”工具，将 AI 运行状态从终端隐藏变为系统层可感知，帮助开发者高效管理多模型、高频并发的开发环境。",
-    "feed": "西风",
-    "pubDate": "Wed, 06 May 2026 18:09:00 +0000",
-    "fetched_at": "2026-05-20T18:55:01.238853"
-  },
-  {
-    "id": "e649b73a0315",
-    "title": "我在远东种大豆",
-    "link": "https://hanyang.wtf/p/817",
-    "description": "缘起 如果看视频，估计会以为我正开车行驶在广袤的非常大草原上。而我从来没想过，当充满枯萎干燥芦苇的沼泽地大到一定程度时，它看起来就像是非洲的稀树草原。但这和稀树草原可谓南辕北辙——因为这里是俄罗斯的滨海边疆区，也就是我们常说的「远东」。",
-    "feed": "汉洋滔天",
-    "pubDate": "Wed, 06 May 2026 08:24:44 GMT",
-    "fetched_at": "2026-05-20T18:54:59.975809"
   }
 ]
