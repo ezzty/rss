@@ -45,6 +45,15 @@
     "fetched_at": "2026-07-15T08:00:44.463118"
   },
   {
+    "id": "937187b9c4c4",
+    "title": "第三周刊_No.62｜人在跑步的时候就很容易进行自我反思",
+    "link": "https://joeytoday.com/blog/2026/weekly-62",
+    "description": "多得她给我勇气，真的要多得她，去使我懂得，每一个故事结尾无非别离、总是别离。",
+    "feed": "偶然时刻",
+    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "fetched_at": "2026-07-20T08:00:57.762448"
+  },
+  {
     "id": "5fc97dccd42a",
     "title": "孤独行者的孤独记",
     "link": "https://liuqingwushui.top/archives/172/",
@@ -889,14 +898,5 @@
     "feed": "偶然时刻",
     "pubDate": "Sat, 09 May 2026 00:00:00 GMT",
     "fetched_at": "2026-05-20T18:55:05.621706"
-  },
-  {
-    "id": "a0628778cab1",
-    "title": "升级桌面硬件设备",
-    "link": "https://krya.com/post/updatehardware/",
-    "description": "\n上一次买Macbook Pro还是2014年，当时年少轻狂，又喜欢宝马貂裘，斥12000元巨资购买。不过因为工作环境，Mac生态缺乏很多我需要的程序，买了两年也没有收回成本，于是送人了。\n最近我沉迷Vibe coding，尝试用Windows电脑上的GTX 1650 4G内存的显卡运行qwen2.5vl:3b视觉模型识别物品，没想到720P的图片居然需要两分钟才能识别出来，分辨率高一点，直接爆显",
-    "feed": "krya",
-    "pubDate": "Fri, 08 May 2026 08:00:00 GMT",
-    "fetched_at": "2026-05-20T18:55:10.546380"
   }
 ]
