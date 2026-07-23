@@ -1,5 +1,14 @@
 [
   {
+    "id": "3cd5e978624b",
+    "title": "用 qwen 3.8-max 做一个 GPT 风格封面生成 skill",
+    "link": "https://joeytoday.com/blog/2026/qwencode-bailian-skill-openai-cover-gen",
+    "description": "用 qwen 3.8-max 从 0 制作一个技能，一键生成 GPT 风格文章封面（支持微调和一键导出）。",
+    "feed": "偶然时刻",
+    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "fetched_at": "2026-07-23T08:00:43.974193"
+  },
+  {
     "id": "84ccff53bf5a",
     "title": "向云端｜西南自驾02 - 婺源",
     "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html",
@@ -889,14 +898,5 @@
     "feed": "土木坛子",
     "pubDate": "Tue, 12 May 2026 16:00:32 +0000",
     "fetched_at": "2026-05-21T08:00:47.910892"
-  },
-  {
-    "id": "acde61ca673b",
-    "title": "读书｜给孩子的信是法拉奇给世界的情书",
-    "link": "https://joeytoday.com/blog/2026/books-letter-to-a-child-never-born",
-    "description": "这个世界不公、荒诞，但身而为人是一场值得的冒险。",
-    "feed": "偶然时刻",
-    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "fetched_at": "2026-05-20T18:55:05.621701"
   }
 ]
