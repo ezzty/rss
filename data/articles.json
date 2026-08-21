@@ -1,5 +1,23 @@
 [
   {
+    "id": "6398b82364a7",
+    "title": "友圈模块的发展史",
+    "link": "https://liuqingwushui.top/archives/187/",
+    "description": "文章回顾了友圈模块从诞生到四次迭代的完整历程。友圈通过自定义字段配置订阅地址，实时解析RSS/Atom生成JSON缓存展示前端。四次优化分别是：兼容RSS和Atom双格式；用fastcgi_fi...",
+    "feed": "流情",
+    "pubDate": "Thu, 20 Aug 2026 10:05:00 +0800",
+    "fetched_at": "2026-08-21T08:01:23.403779"
+  },
+  {
+    "id": "a5a5ef26f152",
+    "title": "一场互联网的狂欢——“走个面儿”的问题",
+    "link": "https://chidd.net/2026/08/20/niu-lai.html",
+    "description": "一个粗制滥造但获得龙标的电影《牛来》正以势不可挡的雄姿横扫影坛，成为今年当之无愧最大的现象级文化事件。 《牛来...",
+    "feed": "伪医生律师的博客",
+    "pubDate": "Thu, 20 Aug 2026 09:14:06 +0000",
+    "fetched_at": "2026-08-21T08:01:21.820107"
+  },
+  {
     "id": "78093a8a7a7b",
     "title": "观《牛来》后记",
     "link": "https://www.ixiqin.com/2026/08/18/afterword-to-niu-lai/",
@@ -880,23 +898,5 @@
     "feed": "流情",
     "pubDate": "Tue, 16 Jun 2026 14:12:55 +0800",
     "fetched_at": "2026-06-17T08:00:25.776864"
-  },
-  {
-    "id": "03ed7d7d49c6",
-    "title": "2026 欧洲之旅：坐大巴",
-    "link": "https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/",
-    "description": "欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […]",
-    "feed": "白宦成",
-    "pubDate": "Tue, 16 Jun 2026 12:44:15 +0000",
-    "fetched_at": "2026-06-17T08:00:26.218201"
-  },
-  {
-    "id": "c7276f2ad8f0",
-    "title": "第三周刊_No.56｜有限与无限的游戏",
-    "link": "https://joeytoday.com/blog/2026/weekly-56",
-    "description": "我们欢笑，并非因为有什么出人意料的使人无法继续的东西，而是因为那些出人意料地令人可以继续的东西。",
-    "feed": "偶然时刻",
-    "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "fetched_at": "2026-06-17T08:00:16.994812"
   }
 ]
