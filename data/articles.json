@@ -1,5 +1,23 @@
 [
   {
+    "id": "5fd29534b302",
+    "title": "二十而已",
+    "link": "https://loyhome.com/%e4%ba%8c%e5%8d%81%e8%80%8c%e5%b7%b2/",
+    "description": "今年是落园第二十个年头。 不过二十而已。 落园是当年的成年礼，那是不是也应该给落园搞个成年礼。 落园是独立意识的觉醒，那我也不过二十而已。 挺好的，都还在，都年轻，都有梦想，都会实现。",
+    "feed": "落圆",
+    "pubDate": "Fri, 21 Aug 2026 07:12:26 +0000",
+    "fetched_at": "2026-08-22T08:00:33.570571"
+  },
+  {
+    "id": "5ea85939640b",
+    "title": "昂贵的科研",
+    "link": "https://hongtaoh.com/cn/2026/08/20/expensive-research/",
+    "description": "博士最后的一篇论文，现在发现9个实验中有一个有些错误，需要重新跑实验。由于已经毕业，没有了学校的资源，只能自己想办法。用了 Google Cloud Platform。用了新开户的 300 美元免费额度。就这都不够，估计要 400 美元。而这只是9个实验中的一个。幸好别的没出问题。这么算的话，如果全部跑一遍，要 3600 美元。",
+    "feed": "郝鸿涛",
+    "pubDate": "Thu, 20 Aug 2026 19:31:52 -0700",
+    "fetched_at": "2026-08-22T08:00:32.539229"
+  },
+  {
     "id": "6398b82364a7",
     "title": "友圈模块的发展史",
     "link": "https://liuqingwushui.top/archives/187/",
@@ -880,23 +898,5 @@
     "feed": "偶然时刻",
     "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
     "fetched_at": "2026-06-18T08:00:32.124801"
-  },
-  {
-    "id": "c74a9c8b9393",
-    "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
-    "link": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
-    "description": "作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […]",
-    "feed": "白宦成",
-    "pubDate": "Tue, 16 Jun 2026 15:30:22 +0000",
-    "fetched_at": "2026-06-17T08:00:26.218145"
-  },
-  {
-    "id": "576e88b0de53",
-    "title": "小确幸的一天",
-    "link": "https://liuqingwushui.top/archives/163/",
-    "description": "6月15日，博主经历了美好的一天。由于前晚没睡好，上班时泡茶养生。15号是发工资的日子，博主感到兴奋。午睡后收到端午节礼盒，博主计划将礼盒寄回家。下午收到银行短信，见证努力工作的成果。晚上下班后...",
-    "feed": "流情",
-    "pubDate": "Tue, 16 Jun 2026 14:12:55 +0800",
-    "fetched_at": "2026-06-17T08:00:25.776864"
   }
 ]
