@@ -1,5 +1,23 @@
 [
   {
+    "id": "41848906db12",
+    "title": "足迹板块，上新预告",
+    "link": "https://liuqingwushui.top/archives/190/",
+    "description": "博客正在不断优化体验和视觉感官，目前已完善首页、归档等版块。足迹板块因找不到满意样式一直搁置，直到博主受瓦匠博友新主题启发，决定新增足迹板块。目前板块还在完善中，暂不提供访问入口，但博主期待后续完善。",
+    "feed": "流情",
+    "pubDate": "Wed, 26 Aug 2026 14:36:12 +0800",
+    "fetched_at": "2026-08-27T08:00:57.423832"
+  },
+  {
+    "id": "608d01260191",
+    "title": "如何选择 DeepSeekHarnes / Claude Code/Codex/ Pi",
+    "link": "https://www.ixiqin.com/2026/08/26/how-to-choose-depseekharnes-claude-code-codex-pi/",
+    "description": "文章将 Agent 工具分为 Coding Agent 产品、Agent SDK 和 Agent Framework，建议先根据使用目的选择类别，再比较具体工具。Coding Agent 的选择取决于预算、模型偏好、自定义需求以及是否想尝试递归自进化 …",
+    "feed": "白宦成",
+    "pubDate": "Wed, 26 Aug 2026 07:40:26 +0000",
+    "fetched_at": "2026-08-27T08:00:57.628835"
+  },
+  {
     "id": "0ac561283275",
     "title": "野生菌真是大自然的绝佳馈赠",
     "link": "https://chidd.net/2026/08/25/ye-sheng-jun.html",
@@ -880,23 +898,5 @@
     "feed": "皮皮",
     "pubDate": "Sun, 21 Jun 2026 06:43:13 +0000",
     "fetched_at": "2026-06-25T08:01:39.838974"
-  },
-  {
-    "id": "d2beb585c46b",
-    "title": "尝个鲜  — 健民辣丝",
-    "link": "https://www.ixiqin.com/2026/06/21/try-a-fresh-jianmin-spicy-silk/",
-    "description": "尝个鲜系列是我尝试开启的一个新的系列，记录一些我吃的好玩的，不太「日常」的东西。 忘了在哪里刷到了健民辣丝，在淘宝上买了两包健民辣丝。东西倒是不贵，两包 8 块钱（当然，可能作为一个咸菜是有点贵 …",
-    "feed": "白宦成",
-    "pubDate": "Sat, 20 Jun 2026 22:09:00 +0000",
-    "fetched_at": "2026-06-24T08:02:18.253289"
-  },
-  {
-    "id": "4695ee7bd1b0",
-    "title": "使用 Docker 部署 Github Actions Self Hosted Runner",
-    "link": "https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/",
-    "description": "近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git  […]",
-    "feed": "白宦成",
-    "pubDate": "Sat, 20 Jun 2026 12:28:57 +0000",
-    "fetched_at": "2026-06-21T08:01:01.898673"
   }
 ]
