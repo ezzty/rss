@@ -1,5 +1,14 @@
 [
   {
+    "id": "8593bf99c240",
+    "title": "放弃手搓博客迁回 WordPress，顺便聊聊最近跑通的项目",
+    "link": "https://xifeng.net/2026/09/back-to-wordpress-projects/",
+    "description": "记录近期的独立开发折腾与心态转变：从执迷于手搓轮子到拥抱成熟生态，将自研博客迁回 WordPress；复盘两款已实现稳定盈利的 IP 工具站的运营心得；同时分享新上线的 QuotaBar、OpenStats 等几款 macOS 工具，以及老本行业务收尾期的生存思考。",
+    "feed": "西风",
+    "pubDate": "Thu, 24 Sep 2026 13:47:10 +0000",
+    "fetched_at": "2026-09-25T08:01:23.716089"
+  },
+  {
     "id": "c7ffbe8192fa",
     "title": "一份关于天堂地狱与六道轮回的漫游指南",
     "link": "https://hanyang.wtf/p/893",
@@ -486,6 +495,15 @@
     "fetched_at": "2026-09-10T08:00:29.081115"
   },
   {
+    "id": "e9b0a7b7df74",
+    "title": "85亿 vs 44亿：孙宇晨身价反超王健林之后 [AI文章]",
+    "link": "https://xifeng.net/2026/08/sun-yuchen-wang-jianlin/",
+    "description": "孙宇晨身价超王健林，数字背后是加密货币与房地产两股潮水的此消彼长。孙宇晨的账面财富依赖行情，王健林缩水后仍有实体经营能力。用榜单评判人终会被下一个榜单打脸，只有真实经营能力不易被冲走。",
+    "feed": "西风",
+    "pubDate": "Tue, 11 Aug 2026 10:43:00 +0000",
+    "fetched_at": "2026-09-25T08:01:23.716106"
+  },
+  {
     "id": "4856bf0e167b",
     "title": "青海格尔木游记",
     "link": "https://chidd.net/2026/08/11/ge-er-mu.html",
@@ -547,6 +565,15 @@
     "feed": "西风",
     "pubDate": "Sat, 08 Aug 2026 04:02:00 +0000",
     "fetched_at": "2026-09-10T08:00:29.081144"
+  },
+  {
+    "id": "92c73ee82e03",
+    "title": "借钱",
+    "link": "https://xifeng.net/2026/08/borrowing-money/",
+    "description": "资金短缺被供应商起诉后，作者向多年朋友同学开口周转，却发现当初自己无条件借出款项的人纷纷推脱：同学欠款未清反向借钱，大哥五年不提旧债只回绝，同行承诺五千，发小仅赞助两千。讨债无果，作者感慨“有事开口”的承诺经不起考验。",
+    "feed": "西风",
+    "pubDate": "Sat, 08 Aug 2026 04:02:00 +0000",
+    "fetched_at": "2026-09-25T08:01:23.716113"
   },
   {
     "id": "e5b80175d317",
@@ -871,32 +898,5 @@
     "feed": "yufree",
     "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
     "fetched_at": "2026-07-15T08:00:51.149749"
-  },
-  {
-    "id": "cdab7547b6d5",
-    "title": "向云端｜西南自驾01 - 裸辞",
-    "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html",
-    "description": "",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sun, 12 Jul 2026 03:54:06 +0000",
-    "fetched_at": "2026-07-14T08:00:19.766092"
-  },
-  {
-    "id": "7e4e90bbaed7",
-    "title": "SpaceX的IPO新股申购记",
-    "link": "https://tumutanzi.com/archives/17616",
-    "description": "人类历史上目前最大市值的IPO是上个月6月12日的SpaceX，这固然有马斯克画的大饼，但是本着对新生事物宁可 […]",
-    "feed": "土木坛子",
-    "pubDate": "Sat, 11 Jul 2026 16:00:37 +0000",
-    "fetched_at": "2026-07-13T08:01:10.270334"
-  },
-  {
-    "id": "6c191632950f",
-    "title": "关于AI的一些碎片思考",
-    "link": "https://chidd.net/2026/07/10/about-ai.html",
-    "description": "无可否认，当前我们已处于AI时代。 昨天晚上在翻阅近期的一些杂志时，赫然发现，《财新》周刊最近的几期封面报道内...",
-    "feed": "伪医生律师的博客",
-    "pubDate": "Fri, 10 Jul 2026 08:27:53 +0000",
-    "fetched_at": "2026-07-11T08:00:42.326281"
   }
 ]
