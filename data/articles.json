@@ -1,5 +1,32 @@
 [
   {
+    "id": "fe2f477aabb3",
+    "title": "Near By Guru: 找到你身边的开源上师",
+    "link": "https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/",
+    "description": "在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […]",
+    "feed": "白宦成",
+    "pubDate": "Sun, 04 Oct 2026 12:55:21 +0000",
+    "fetched_at": "2026-10-05T08:02:16.135500"
+  },
+  {
+    "id": "459bf9699908",
+    "title": "开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org",
+    "link": "https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/",
+    "description": "TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […]",
+    "feed": "白宦成",
+    "pubDate": "Sun, 04 Oct 2026 09:48:38 +0000",
+    "fetched_at": "2026-10-05T08:02:16.135554"
+  },
+  {
+    "id": "e2184fa6d053",
+    "title": "上下五千米",
+    "link": "https://yufree.cn/cn/2026/10/04/5000-m/",
+    "description": "小时候读《上下五千年》，以为中华文明就是五千年信史，后来才知道夏朝的实证基本没有，二里头文明属于夏还是商还说不清楚，再加上时光机这玩意有生之年不一定能看到，就不如把时间改成距离，在地球上下走个五千米的落差。\n然而，人类在海拔五千米以上的聚居区非常稀少，超过一万人的只有秘鲁 La Rinconada，那还是个矿区，工资施行前30天白干，后面一天挖出来多少都可以带走的赌徒式契约，方便工人跟资方双重避税",
+    "feed": "yufree",
+    "pubDate": "Sun, 04 Oct 2026 00:00:00 +0000",
+    "fetched_at": "2026-10-05T08:02:11.515826"
+  },
+  {
     "id": "46b241d7c524",
     "title": "我的番茄小说，签约评估推荐",
     "link": "https://liuqingwushui.top/archives/199/",
@@ -871,32 +898,5 @@
     "feed": "Lynan",
     "pubDate": "7 月 15 日，2026",
     "fetched_at": "2026-07-16T08:01:06.500685"
-  },
-  {
-    "id": "e0e86610aba0",
-    "title": "在不適合的環境中努力，並不等於成長",
-    "link": "https://xpipix.com/6036.html",
-    "description": "已經很久沒有面試，幸好經過兩次面試，同時獲得兩份工作邀請。經過審慎考慮，最終已確定加入新的公司。與幾位老朋友談 […]",
-    "feed": "皮皮",
-    "pubDate": "Wed, 15 Jul 2026 12:57:40 +0000",
-    "fetched_at": "2026-07-16T08:01:07.978030"
-  },
-  {
-    "id": "d09d5d5dc979",
-    "title": "成年人的世界",
-    "link": "https://liuqingwushui.top/archives/173/",
-    "description": "-成年人的世界，要么学会赞美，要么学会闭嘴。- 成年人的顶级情商，是看破不说破，知道不点破，讨厌不撕破。- 话到嘴边留三分，事到临头看几分，成年人从不把话说满。- 成年人吵架不靠嗓门，靠的是&q...",
-    "feed": "流情",
-    "pubDate": "Tue, 14 Jul 2026 22:06:50 +0800",
-    "fetched_at": "2026-07-15T08:00:53.484106"
-  },
-  {
-    "id": "a00bd4471346",
-    "title": "第三周刊_No.63｜人在跑步的时候就很容易进行自我反思",
-    "link": "https://joeytoday.com/blog/2026/weekly-63",
-    "description": "多得她给我勇气，真的要多得她，去使我懂得，每一个故事结尾无非别离、总是别离。",
-    "feed": "偶然时刻",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "fetched_at": "2026-07-15T08:00:44.463118"
   }
 ]
