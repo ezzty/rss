@@ -1,5 +1,23 @@
 [
   {
+    "id": "9bcbfe39697c",
+    "title": "写了一个嵌入式 Mock 工具",
+    "link": "https://lynan.cn/embedded-mock-tools/",
+    "description": "最近写了一个小工具：embedded-mock-tools，很直接地说，100% 由 AI 完成的 Coding 工作，我只是不断地告诉它我要实现什么需求，从结果来看，它对我的需求实现得很好。\n\n  \n  LynanBreeze/embedded-mock-tools: An embedded network request interception and mock panel prototyp",
+    "feed": "Lynan",
+    "pubDate": "7 月 15 日，2026",
+    "fetched_at": "2026-10-07T08:01:54.796612"
+  },
+  {
+    "id": "c56b4b9d99ea",
+    "title": "【景点篇】兴隆湖湿地公园",
+    "link": "https://liuqingwushui.top/archives/201/",
+    "description": "国庆当日，博主放弃远行计划，前往成都西博城参观世界线漫展，欣赏各类动漫角色扮演。随后步行至兴隆湖公园，蓝天白云与湛蓝湖水相映，景色治愈，是放松身心、散步聚会的好去处。",
+    "feed": "流情",
+    "pubDate": "Tue, 06 Oct 2026 19:49:33 +0800",
+    "fetched_at": "2026-10-07T08:01:50.014063"
+  },
+  {
     "id": "e51602536a4d",
     "title": "工作的最后一天9.30",
     "link": "https://liuqingwushui.top/archives/200/",
@@ -7,6 +25,15 @@
     "feed": "流情",
     "pubDate": "Mon, 05 Oct 2026 19:10:44 +0800",
     "fetched_at": "2026-10-06T08:01:44.151916"
+  },
+  {
+    "id": "fef4c32593bc",
+    "title": "人到中年开始明白的一些事",
+    "link": "https://tumutanzi.com/archives/17644",
+    "description": "常言道：四十而不惑。我觉得中年的我依然还有很多疑惑，但倒也开始明白一些事。人到中年以后，对很多事情的看法确实会 […]",
+    "feed": "土木坛子",
+    "pubDate": "Mon, 05 Oct 2026 16:00:49 +0000",
+    "fetched_at": "2026-10-07T08:01:45.410171"
   },
   {
     "id": "b4ff1962b12b",
@@ -871,32 +898,5 @@
     "feed": "流情",
     "pubDate": "Mon, 20 Jul 2026 10:28:14 +0800",
     "fetched_at": "2026-07-21T08:01:21.627410"
-  },
-  {
-    "id": "9c661332b831",
-    "title": "【景点篇】川大博物馆",
-    "link": "https://liuqingwushui.top/archives/174/",
-    "description": "博主分享了参观四川大学博物馆的体验，介绍了博物馆的镇馆之宝和特色展厅，包括石刻艺术馆、书画馆、民族学/民俗馆、陶瓷馆、考古馆和自然博物馆部分。提到了冷门但有意思的展品，如皮影戏藏品、藏传佛教唐卡...",
-    "feed": "流情",
-    "pubDate": "Mon, 20 Jul 2026 10:10:00 +0800",
-    "fetched_at": "2026-07-21T08:01:21.627434"
-  },
-  {
-    "id": "6ecc26de487d",
-    "title": "终于还是去看了《功夫女足》",
-    "link": "https://chidd.net/2026/07/20/kung-fu-soccer.html",
-    "description": "先说结论：值得去看，但质量的确不高。 电影对于我而言，是一种消遣，我认为最重要的是：剧情够不够精彩。 比如，喜...",
-    "feed": "伪医生律师的博客",
-    "pubDate": "Mon, 20 Jul 2026 02:41:57 +0000",
-    "fetched_at": "2026-07-21T08:01:20.110424"
-  },
-  {
-    "id": "c34f78983e03",
-    "title": "GB人生",
-    "link": "https://yufree.cn/cn/2026/07/20/gb/",
-    "description": "一个人从生到死一刻不停地看视频，1080p，需要多大的硬盘装下？假设活八十年，一秒不停地看是七十万小时量级。按现在流媒体那种压得很狠的 AV1 编码，1080p 差不多每小时 1GB，全算下来一个多 PB。但这个数是假的，因为没人能一秒不停地看。把睡觉、吃饭、如厕、发呆、婴儿期这些扣掉，一个人清醒着能盯屏幕的时间，撑死三十几万小时，每天十二三个钟头已经是极限了（再多眼睛和脑子都受不了）。这么一算，",
-    "feed": "yufree",
-    "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
-    "fetched_at": "2026-07-21T08:01:19.134129"
   }
 ]
