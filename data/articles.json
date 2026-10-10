@@ -1,5 +1,14 @@
 [
   {
+    "id": "cfbab71839f6",
+    "title": "我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备",
+    "link": "https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/",
+    "description": "我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 Google F […]",
+    "feed": "白宦成",
+    "pubDate": "Fri, 09 Oct 2026 02:32:06 +0000",
+    "fetched_at": "2026-10-10T08:01:25.450409"
+  },
+  {
     "id": "c2a2399b6822",
     "title": "OneKey Pro 2： 再次进化的旗舰硬件钱包",
     "link": "https://song.al/onekeypro2",
@@ -889,14 +898,5 @@
     "feed": "郝鸿涛",
     "pubDate": "Wed, 22 Jul 2026 14:19:44 -0700",
     "fetched_at": "2026-07-24T08:01:04.679434"
-  },
-  {
-    "id": "3cd5e978624b",
-    "title": "用 qwen 3.8-max 做一个 GPT 风格封面生成 skill",
-    "link": "https://joeytoday.com/blog/2026/qwencode-bailian-skill-openai-cover-gen",
-    "description": "用 qwen 3.8-max 从 0 制作一个技能，一键生成 GPT 风格文章封面（支持微调和一键导出）。",
-    "feed": "偶然时刻",
-    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "fetched_at": "2026-07-23T08:00:43.974193"
   }
 ]
