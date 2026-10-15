@@ -1,5 +1,23 @@
 [
   {
+    "id": "50989ab47d5a",
+    "title": "灰色博物馆",
+    "link": "https://liuqingwushui.top/archives/203/",
+    "description": "灰色博物馆位于成都春熙路，以独特视角展现抑郁症、焦虑症等精神疾病患者的灰色内心世界。展区虽小但布置用心，参观后令人心情沉重。文章借此呼吁，在物质富足的今天，人们更应关注心理与精神健康。",
+    "feed": "流情",
+    "pubDate": "Wed, 14 Oct 2026 14:56:23 +0800",
+    "fetched_at": "2026-10-15T08:01:57.944002"
+  },
+  {
+    "id": "fcd4c3fec733",
+    "title": "低成本自建阿里云函数计算FC+OSS图床",
+    "link": "https://krya.com/post/oss/",
+    "description": "\n\n源码：https://github.com/ezzty/oss-upload\n\n先说三件事：\n\n本文所有 AccessKey、密码、域名、Bucket 名都是占位符，照抄前请替换成你自己的。\n代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部配置走环境变量。\n走完这篇，你会得到：登录 → 拿 token → 上传 → 返回 Markd",
+    "feed": "krya",
+    "pubDate": "Wed, 14 Oct 2026 01:00:00 GMT",
+    "fetched_at": "2026-10-15T08:02:00.895291"
+  },
+  {
     "id": "355c4f1a5370",
     "title": "【景点篇】都江堰",
     "link": "https://liuqingwushui.top/archives/202/",
@@ -880,23 +898,5 @@
     "feed": "落圆",
     "pubDate": "Sat, 25 Jul 2026 02:46:15 +0000",
     "fetched_at": "2026-07-26T08:01:26.337444"
-  },
-  {
-    "id": "f79c4592dc73",
-    "title": "世俗化",
-    "link": "https://yufree.cn/cn/2026/07/25/secular/",
-    "description": "我给聊天机器人通过hermes接了大语言模型，有一个日常任务是每天早上给我推送polymarket热门赌注，世界杯期间排第一的总是冠军预测，最近则成了美国民主共和党候选人。其实大部分排名靠前的赌盘都是关于选举，要么就是体育赛事或娱乐，我设置这个倒不是为了下注，而是通过这个监测影响力与关注度的差异。只要差异还在，就说明世俗化目前还是相对成功的。\n所谓影响力与关注度差异，指的是真正产生影响的人与公众关",
-    "feed": "yufree",
-    "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000",
-    "fetched_at": "2026-07-27T08:00:56.096591"
-  },
-  {
-    "id": "616721559778",
-    "title": "续租合约的坑",
-    "link": "https://liuqingwushui.top/archives/176/",
-    "description": "博主面临房屋续租问题，原想继续续约但发现新合同中提前退租条款苛刻，可能导致额外损失。博主通过AI分析合同，发现与之前合同相比，新合同对提前退租的处罚更重，包括房屋空置费、违约费和逾期费。博主对此...",
-    "feed": "流情",
-    "pubDate": "Fri, 24 Jul 2026 14:47:50 +0800",
-    "fetched_at": "2026-07-25T08:00:29.206439"
   }
 ]
