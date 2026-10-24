@@ -1,5 +1,32 @@
 [
   {
+    "id": "586e4d4ad374",
+    "title": "观雪山赏彩林 川西理小路自驾游",
+    "link": "https://krya.com/post/lixiaolu/",
+    "description": "\n这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。\n一个人旅游，自由自在，随心所欲。收费的景区一概不进，饿了就在路边停车，露营烧火，煮点面泡点茶。除了大约100块钱过路费和2",
+    "feed": "krya",
+    "pubDate": "Sat, 24 Oct 2026 01:00:00 GMT",
+    "fetched_at": "2026-10-24T08:01:03.932649"
+  },
+  {
+    "id": "96dc35a8b4b4",
+    "title": "我为什么做网鱼：想为互联网留下一小片净土",
+    "link": "https://xifeng.net/2026/10/netfish-bbs/",
+    "description": "作者借开放注册讲述做网鱼的初衷：自己从改网页链接到借助AI开发CleanIP，体会到动手创造的价值，也感受到项目成本与维护压力。他希望把网鱼建成一个认真分享技术、耐心交流、少些戾气的社区，不以盈利为目的，用有限广告覆盖成本并回馈鱼友，为互联网留下一小片净土。",
+    "feed": "西风",
+    "pubDate": "Fri, 23 Oct 2026 23:07:27 +0000",
+    "fetched_at": "2026-10-24T08:00:49.266298"
+  },
+  {
+    "id": "c009fd0bb90a",
+    "title": "开机卡——解决远程开关机的好工具",
+    "link": "https://chidd.net/2026/10/23/kai-ji-ka.html",
+    "description": "声明：本文为经验分享，绝非广告，也不提供购买链接。 最近入手了一个小玩意儿，感觉还不错，特撰文分享。这个东西叫...",
+    "feed": "伪医生律师的博客",
+    "pubDate": "Fri, 23 Oct 2026 09:15:06 +0000",
+    "fetched_at": "2026-10-24T08:00:59.308237"
+  },
+  {
     "id": "083ef2c63eb4",
     "title": "多城之旅",
     "link": "https://liuqingwushui.top/archives/204/",
@@ -871,32 +898,5 @@
     "feed": "流情",
     "pubDate": "Mon, 03 Aug 2026 10:09:27 +0800",
     "fetched_at": "2026-08-04T08:01:04.931612"
-  },
-  {
-    "id": "a00bd4471346",
-    "title": "第三周刊_No.63｜慢媒介与时间政治：老派生活之必要",
-    "link": "https://joeytoday.com/blog/2026/weekly-63",
-    "description": "老派生活之必要。希望你能沉思、冥想，并获得幸福。",
-    "feed": "偶然时刻",
-    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "fetched_at": "2026-10-06T08:01:33.937200"
-  },
-  {
-    "id": "761bacc92237",
-    "title": "向云端｜西南自驾06 - 芷江",
-    "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html",
-    "description": "",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sun, 02 Aug 2026 14:29:31 +0000",
-    "fetched_at": "2026-08-03T08:00:31.966357"
-  },
-  {
-    "id": "4ede9cacc6ac",
-    "title": "向云端｜西南自驾05 - 长沙",
-    "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html",
-    "description": "",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Sat, 01 Aug 2026 05:41:20 +0000",
-    "fetched_at": "2026-08-02T08:00:21.535440"
   }
 ]
