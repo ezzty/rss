@@ -1,5 +1,14 @@
 [
   {
+    "id": "c31ca5824b88",
+    "title": "Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering",
+    "link": "https://www.ixiqin.com/2026/10/26/harness-engineering/",
+    "description": "在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […]",
+    "feed": "白宦成",
+    "pubDate": "Mon, 26 Oct 2026 15:14:58 +0000",
+    "fetched_at": "2026-10-27T08:01:13.254847"
+  },
+  {
     "id": "069e826f2983",
     "title": "归途",
     "link": "https://liuqingwushui.top/archives/205/",
@@ -889,14 +898,5 @@
     "feed": "土木坛子",
     "pubDate": "Thu, 06 Aug 2026 16:00:10 +0000",
     "fetched_at": "2026-08-08T08:01:01.969232"
-  },
-  {
-    "id": "69c590945fed",
-    "title": "向云端｜西南自驾07 - 新晃",
-    "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html",
-    "description": "",
-    "feed": "西运维咖啡吧",
-    "pubDate": "Wed, 05 Aug 2026 13:31:12 +0000",
-    "fetched_at": "2026-08-06T08:00:40.490655"
   }
 ]
